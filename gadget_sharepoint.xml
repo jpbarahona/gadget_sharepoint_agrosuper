@@ -1,0 +1,16 @@
+<Module specificationVersion='2'>
+    <ModulePrefs
+            title="Prueba"
+            description="Prueba Gestion agrosuper"
+            author=""
+            thumbnail="https://www.importancia.org/wp-content/uploads/1-360x360.png"
+            height="800" >
+    </ModulePrefs>
+    <UserPref
+        name="mycolor"
+        display_name="Color"
+        default_value="Lime"
+        datatype="string" />
+    <Content type="html" href="https://gestion.agrosuper.cl/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fcom.sap.pct!2fplatform_add_ons!2fcom.sap.ip.bi!2fiViews!2fcom.sap.ip.bi.bex?BOOKMARK=4V7XT6V541FA2OI5398KNDQEG
+"/>
+</Module>
