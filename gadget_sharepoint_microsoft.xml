@@ -1,0 +1,15 @@
+<Module specificationVersion='2'>
+    <ModulePrefs
+            title="Sharepoint"
+            description="Sharepoint"
+            author=""
+            thumbnail="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdp9-ZzDSYQUWLy25jal81gOiezf4NznhPH5pgIc69mhuqtEP8w"
+            height="800" >
+    </ModulePrefs>
+    <UserPref
+        name="mycolor"
+        display_name="Color"
+        default_value="Lime"
+        datatype="string" />
+    <Content type="html" href="https://agrosuper.sharepoint.com/sites/pmo/LA/default.aspx"/>
+</Module>
